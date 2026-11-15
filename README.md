@@ -4,6 +4,7 @@ Electricity-price-aware heating for S67, built on Apple Shortcuts, Tuya scenes a
 
 - `tools/` – Python that generates the shortcuts (`_head.py`, `_mid.py`, `_tail.py` → `build.py`), a simulator and tests.
 - `Küte täna.js` – Scriptable widget showing today's plan and current status.
+- `shortcuts/` – signed, ready-to-import shortcuts (latest build).
 - `SETUP.md` – setup, settings and how it all works.
 - `build/orig/Shortcut.wflow` – the original shortcut the Tuya scene actions are copied from.
 
